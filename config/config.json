@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x26F8d3AFF822e6b183e79ED8C673B006D791C128",
+  "SCAN_LINK": "https://polygonscan.com/address/0x26f8d3aff822e6b183e79ed8c673b006d791c128",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Little Whales Club",
+  "SYMBOL": "LWC",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 750000000000000000,
+  "DISPLAY_COST": 0.75,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/little-whales-club",
+  "SHOW_BACKGROUND": true
+}
